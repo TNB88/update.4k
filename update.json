@@ -1,0 +1,12 @@
+{
+  "version_name": "2.6.8-TorBox",
+  "version_code": 88,
+  "download_url": "https://github.com/TNB88/FSHARE/releases/download/phim4k-v2.6.8-88/Phim4K_2.6.8_TorBox.TiviBox_Phim18_ClipDramaControls_OTA.apk",
+  "force_update": false,
+  "file_size": 20917632,
+  "checksum": "F55D2C0E6E30711F5585C7367402893E3C00BFEAA658CF721D7889CE19ABC477",
+  "changelog": {
+    "vi": "Thêm nút tập trước, tập tiếp theo và bảng chọn tập mới cho ClipDrama; ẩn nhãn TRỰC TIẾP; chuyển hệ thống cập nhật sang GitHub Releases.",
+    "en": "Added previous/next episode controls and a redesigned ClipDrama episode picker; removed the LIVE label; migrated updates to GitHub Releases."
+  }
+}
