@@ -1,12 +1,12 @@
 {
   "version_name": "2.6.8-TorBox",
-  "version_code": 93,
-  "download_url": "https://github.com/TNB88/update.4k/releases/download/phim4k-v2.6.8-93/Phim4K_2.6.8_TorBox.TiviBox_Phim18_CNPORN.apk",
+  "version_code": 94,
+  "download_url": "https://github.com/TNB88/update.4k/releases/download/phim4k-v2.6.8-94/Phim4K_2.6.8_TorBox.TiviBox_Phim18_CNPORN.apk",
   "force_update": false,
   "file_size": 20921728,
-  "checksum": "B64701BE3448C568316C7E867949BF5E44E7C1D1CE53C0350EC8143A7510A86B",
+  "checksum": "0E49240F6C0D6D993D81A6F04257ADE2CA634FB6C58F92C6B22B301F1476BFEC",
   "changelog": {
-    "vi": "Fix 123AV tải mãi và lỗi HTTP 404 khi bấm xem phim.",
-    "en": "Fixed endless loading and HTTP 404 when starting 123AV playback."
+    "vi": "Thay 123AV bằng EPORNER: tải 48 poster, mở chặn qua Cloudflare và tự phát nguồn chất lượng cao nhất.",
+    "en": "Replaced 123AV with EPORNER: 48 posters, Cloudflare access, and automatic highest-quality playback."
   }
 }
