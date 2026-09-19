@@ -1,12 +1,12 @@
 {
   "version_name": "2.6.8-TorBox",
-  "version_code": 95,
-  "download_url": "https://github.com/TNB88/update.4k/releases/download/phim4k-v2.6.8-95/Phim4K_2.6.8_TorBox.TiviBox_Phim18_CNPORN.apk",
+  "version_code": 96,
+  "download_url": "https://github.com/TNB88/update.4k/releases/download/phim4k-v2.6.8-96/Phim4K_2.6.8_TorBox.TiviBox_Phim18_CNPORN.apk",
   "force_update": false,
-  "file_size": 20925824,
-  "checksum": "862EE5011D37EBCE130D69FA8FE1F09FD9D5217E8F547C78FAFBD77FD4CDDD3C",
+  "file_size": 20929920,
+  "checksum": "F9D6038CFBCE4925CE95F32F009D443B3C4FBE7E8EBB8B2DC21502DA60C0936F",
   "changelog": {
-    "vi": "Thêm EPORNER 4K ULTRA, đưa CNPORN làm nguồn mặc định và sửa lỗi báo EAC3 khi video 4K60 vượt khả năng TV Box.",
-    "en": "Added EPORNER 4K ULTRA, made CNPORN the default source, and fixed the false EAC3 error caused by unsupported 4K60 video."
+    "vi": "Thêm STREAM18+ riêng dưới TORBOX với 141JAV, XClub và Sukebei. XClub có poster ngang đúng phim, nạp nhiều trang, nút Trang tiếp và phát bằng TorBox.",
+    "en": "Added a separate STREAM18+ section with 141JAV, XClub and Sukebei. XClub now has correct landscape posters, multi-page loading, a Next Page card and TorBox playback."
   }
 }
