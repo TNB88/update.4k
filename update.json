@@ -6,7 +6,7 @@
   "file_size": 20938112,
   "checksum": "788DD98A7DD88CC99818B07C91DDBF8F96EF4E4919E307DE328C4811533C073F",
   "changelog": {
-    "vi": "Sửa nguồn JAVTIFUL do trang đổi cấu trúc và cơ chế playback ticket. Danh sách, poster, chất lượng, thời lượng và phát phim native đã hoạt động lại.",
+    "vi": "Sửa nguồn JAVTIFUL - Nếu bạn update không được thì mã download là : 1707519 - nhập mã vào downloader để tải bản mới nhất.",
     "en": "Fixed JAVTIFUL after its page structure and playback-ticket flow changed. Native listings, posters, quality, duration, and playback now work again."
   }
 }
