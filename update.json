@@ -1,12 +1,12 @@
 {
   "version_name": "2.6.8-TorBox",
-  "version_code": 106,
-  "download_url": "https://github.com/TNB88/update.4k/releases/download/phim4k-v2.6.8-106/Phim4K_2.6.8_TorBox.TiviBox_STREAM18_AVGOOD_v106.apk",
+  "version_code": 107,
+  "download_url": "https://github.com/TNB88/update.4k/releases/download/phim4k-v2.6.8-107/Phim4K_2.6.8_TorBox.TiviBox_JAVTIFUL_FIX_v107.apk",
   "force_update": false,
   "file_size": 20938112,
-  "checksum": "3B93148FA6ED0C82B6DECD6D506EC2A9E6D68624E69F23FCB15328C5B1797F7E",
+  "checksum": "788DD98A7DD88CC99818B07C91DDBF8F96EF4E4919E307DE328C4811533C073F",
   "changelog": {
-    "vi": "Thêm AVGOOD mặc định trong STREAM18+. Sửa nguồn TorBox chưa cache hoặc đã đủ 3 lượt tải không còn quay lâu; tự dừng và báo rõ. Nút nguồn AVGOOD chỉ còn hiện dung lượng GB.",
-    "en": "Added AVGOOD as the default STREAM18+ source. TorBox sources that are uncached or blocked by the three-active-download limit now stop promptly with a clear message. AVGOOD source buttons now show file size only."
+    "vi": "Sửa nguồn JAVTIFUL do trang đổi cấu trúc và cơ chế playback ticket. Danh sách, poster, chất lượng, thời lượng và phát phim native đã hoạt động lại.",
+    "en": "Fixed JAVTIFUL after its page structure and playback-ticket flow changed. Native listings, posters, quality, duration, and playback now work again."
   }
 }
