@@ -1,13 +1,13 @@
 {
-  "version_name": "2.8.2",
-  "version_code": 92,
   "package_name": "com.xyz.phim4k",
-  "download_url": "https://github.com/TNB88/update.4k/releases/download/phim4k-v2.6.8-143/Phim4K.mobile.2.8.2_KKPhimDiscover_v92.apk",
+  "version_name": "2.8.2",
+  "version_code": 93,
+  "download_url": "https://github.com/TNB88/update.4k/releases/download/phim4k-mobile-v2.8.2-93/Phim4K.mobile.2.8.2_GitHubUpdate_v93.apk",
   "force_update": false,
   "file_size": 136611487,
-  "checksum": "CB15998EE8208DD2CEAD05EBFD3FEB8E27FD2D30E399816729C184CF49F3F9D8",
+  "checksum": "41AD60046055F8BDB2DE77AD80DEBC8740731D5F2287958A78D7B291C7887DD4",
   "changelog": {
-    "vi": "Mã Code Tải Bản Mới Nhất : 2764798.",
-    "en": "New Code Film 4k Mobile : 2764798.."
+    "vi": "Mobile v93: Thêm thông báo cập nhật GitHub khi mở app và nút Cập nhật app trong cài đặt TorBox. Chỉ tải khi bạn đồng ý; kiểm tra đúng bản Mobile, dung lượng, mã SHA256 và chữ ký trước khi mở trình cài đặt Android. Giữ nguồn KKPhim, Phim Hay, TorBox và Galaxy. Các bản Mobile cũ cần cài v93 một lần để nhận thông báo ở những lần cập nhật sau.",
+    "en": "Mobile v93 adds opt-in GitHub update notifications, a manual check, APK integrity and signing-certificate checks, and Android-confirmed installation. Older Mobile builds must install v93 once to receive future notifications."
   }
 }
