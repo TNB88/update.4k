@@ -1,0 +1,13 @@
+{
+  "version_name": "2.8.2",
+  "version_code": 92,
+  "package_name": "com.xyz.phim4k",
+  "download_url": "https://github.com/TNB88/update.4k/releases/download/phim4k-v2.6.8-143/Phim4K.mobile.2.8.2_KKPhimDiscover_v92.apk",
+  "force_update": false,
+  "file_size": 136611487,
+  "checksum": "CB15998EE8208DD2CEAD05EBFD3FEB8E27FD2D30E399816729C184CF49F3F9D8",
+  "changelog": {
+    "vi": "Bản mới Mobile v92: Khám phá, Phim lẻ và Phim bộ chuyển sang API KKPhim. Sửa tìm kiếm, thể loại, quốc gia và nguồn tập; thêm cấu hình API từ GitHub. Bỏ hai nút lọc Thuyết minh/Lồng tiếng. Phim Hay vẫn nguồn C; giữ TorBox, Galaxy và tài khoản đã lưu.",
+    "en": "Mobile v92: KKPhim Discover API and remote API configuration; source C, TorBox and Galaxy preserved."
+  }
+}
