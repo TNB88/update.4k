@@ -1,12 +1,12 @@
 {
   "version_name": "2.6.8-TorBox",
-  "version_code": 107,
-  "download_url": "https://github.com/TNB88/update.4k/releases/download/phim4k-v2.6.8-107/Phim4K_2.6.8_TorBox.TiviBox_JAVTIFUL_FIX_v107.apk",
+  "version_code": 143,
+  "download_url": "https://github.com/TNB88/update.4k/releases/download/phim4k-v2.6.8-143/Phim4K_2.6.8_TiviBox_KKPhimDiscover_v143.apk",
   "force_update": false,
-  "file_size": 20938112,
-  "checksum": "788DD98A7DD88CC99818B07C91DDBF8F96EF4E4919E307DE328C4811533C073F",
+  "file_size": 21044505,
+  "checksum": "984F9F4EFF8C1315BAAA5A44AA89CDED1BBD9F19BFDAFE2B06D61CF1B62C0F3F",
   "changelog": {
-    "vi": "Sửa nguồn JAVTIFUL - Nếu bạn update không được thì mã download là : 1707519 - nhập mã vào downloader để tải bản mới nhất.",
-    "en": "Fixed JAVTIFUL after its page structure and playback-ticket flow changed. Native listings, posters, quality, duration, and playback now work again."
+    "vi": "Bản mới v143: Khám phá, Phim lẻ và Phim bộ chuyển sang API KKPhim. Sửa tìm kiếm, thể loại, quốc gia và nguồn tập; thêm cấu hình API từ GitHub. Bỏ hai nút lọc Thuyết minh/Lồng tiếng. Phim Hay vẫn nguồn C; giữ TorBox, Galaxy và tài khoản đã lưu.",
+    "en": "Discover, movies and series now use the KKPhim JSON API, with remote API configuration, search, genres, countries and episode sources. Source C, TorBox and Galaxy remain separate."
   }
 }
